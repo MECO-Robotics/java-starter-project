@@ -30,6 +30,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 ### Module 2 Exercises
 
+#### Input / Output
 - [ ] Replace all the `System.out.println` lines in App.java with a series of lines of code that
     * Asks the user to enter any number
     * Assign the input to an integer variable, then print the number variable
@@ -38,8 +39,6 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
     * Ask the user to enter a single character
     * Assign the input to a character variable, then print the character variable
 
-
-#### HINT
  * `int i = scanner.nextInt();` - gets a number from the console and sets to an int variable 'i'
  * `float f = scanner.nextFloat();` - gets a number from the console and sets to a float variable 'f'
  * `String s = scanner.next();` - gets a string from the console and sets to a String variable 's'
@@ -48,6 +47,14 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 - [ ] Run the program and put in `8324` for every answer
 - [ ] Run the program and put in `8.324` for every answer
 - [ ] Run the program and put in `A` for every answer
+
+#### Variable sizes
+- [ ] Write a program that:
+   * Defines a short variable and assigns the largest possible value
+   * Prints the variable
+   * Adds 1 to the variable.  Hint: `x = x + 1;`
+   * Prints the value of the variable - What happened?
+- [ ]  
 
 ### Module 3 Exercises
 
