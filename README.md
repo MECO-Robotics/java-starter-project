@@ -54,7 +54,6 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
    * Prints the variable
    * Adds 1 to the variable.  Hint: `x = x + 1;`
    * Prints the value of the variable - What happened?
-- [ ]  
 
 ### Module 3 Exercises
 
