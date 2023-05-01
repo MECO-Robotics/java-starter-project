@@ -41,7 +41,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 
 #### HINT
  * `int i = scanner.nextInt();` - gets a number from the console and sets to an int variable 'i'
- * `float f = scanner.nextInt();` - gets a number from the console and sets to a float variable 'f'
+ * `float f = scanner.nextFloat();` - gets a number from the console and sets to a float variable 'f'
  * `String s = scanner.next();` - gets a string from the console and sets to a String variable 's'
 
 - [ ] Run the program and put in `8` for every answer
